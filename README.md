@@ -68,6 +68,6 @@ Then enter the resume file path when prompted. Results are saved as JSON and PDF
 - Each user supplies their own API key; no keys are stored or shared
 - Role prediction and question generation are entirely LLM-driven (prompt engineering), not a custom-trained classification model
 
-## License
-
-MIT
+   ## License
+   
+   This project is licensed under the [MIT License](LICENSE).
